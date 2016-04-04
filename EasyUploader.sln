@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EasyUploader", "EasyUploader\EasyUploader.vdproj", "{8BDAF39D-AFBE-420A-9B7E-F952BEDE7A27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BDAF39D-AFBE-420A-9B7E-F952BEDE7A27}.Debug|Default.ActiveCfg = Debug
+		{8BDAF39D-AFBE-420A-9B7E-F952BEDE7A27}.Debug|Default.Build.0 = Debug
+		{8BDAF39D-AFBE-420A-9B7E-F952BEDE7A27}.Release|Default.ActiveCfg = Release
+		{8BDAF39D-AFBE-420A-9B7E-F952BEDE7A27}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
