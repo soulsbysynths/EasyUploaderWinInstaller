@@ -33,12 +33,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_1F68760849FC4AE2981F4BD1B6AEE279"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_1FEE63EAC2B44AAF8DE7B9A770C4F146"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -81,6 +75,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_45860520D4934FC6BA7AF55BD079757E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_45CD7F13A9154C93850265FEDBC27578"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -94,18 +94,6 @@
         "Entry"
         {
         "MsmKey" = "8:_4F4336E72BEB4B619FBF8108FFA5E4EC"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_50C19345291748F9883083ADD64A9759"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_540098042383485AB305FB15D527913D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -159,13 +147,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_7FF369429E3046FF878D32475607DCCD"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_82742F4EED9D488F85065F9DC5D93E5B"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_88610340C505451198BF71516E85A115"
+        "MsmKey" = "8:_867A82637ED74C8CB40F6DB2CAB6F6A3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -183,6 +177,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_8FBB619C0312484B8C203A270F81A434"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_977026F9A45E47C99A855E741DFB01BC"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -190,12 +190,6 @@
         "Entry"
         {
         "MsmKey" = "8:_99B43CB04EEA4AA7B48A4D58D3D156C3"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_A8598D74B38E447483AFAA25528A71DE"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -213,13 +207,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_B13FD8FE652A45F09485F2692349484B"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B2233111FEAD4EC5AE27956B830DBA0D"
+        "MsmKey" = "8:_B0E234DC7FBA48D3A6E80BE9A09EFFDC"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -255,6 +243,18 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_CB34F0EF70FF40498B03E098BB251388"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D08BFBC8319544E896A30C61043713A3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_D3415A7350FA4FDF82B10FEBF5D76A83"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -274,6 +274,18 @@
         "Entry"
         {
         "MsmKey" = "8:_DCDE9F78AC4D40C78D30A6FD832A8582"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DF6BA967C233437382F3AD536F4536EA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E342ABBB68AE4F72BA3FB30B00454538"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -310,6 +322,12 @@
         "Entry"
         {
         "MsmKey" = "8:_EFD0B03144C143E0A5EC2C5014E7B4A5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F09385969C084E52B9192A3531AB2F8A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -472,26 +490,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1F68760849FC4AE2981F4BD1B6AEE279"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\main.o"
-            "TargetName" = "8:main.o"
-            "Tag" = "8:"
-            "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1FEE63EAC2B44AAF8DE7B9A770C4F146"
             {
             "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\libGLESV2.dll"
@@ -632,6 +630,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_45860520D4934FC6BA7AF55BD079757E"
+            {
+            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\EEPROM_writer.hex"
+            "TargetName" = "8:EEPROM_writer.hex"
+            "Tag" = "8:"
+            "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_45CD7F13A9154C93850265FEDBC27578"
             {
             "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\translations\\qt_it.qm"
@@ -676,46 +694,6 @@
             {
             "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\libwinpthread-1.dll"
             "TargetName" = "8:libwinpthread-1.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_50C19345291748F9883083ADD64A9759"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\Qt5Core.dll"
-            "TargetName" = "8:Qt5Core.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_540098042383485AB305FB15D527913D"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\moc_mainwindow.cpp"
-            "TargetName" = "8:moc_mainwindow.cpp"
             "Tag" = "8:"
             "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
             "Condition" = "8:"
@@ -892,6 +870,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7FF369429E3046FF878D32475607DCCD"
+            {
+            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\EasyUploader.exe"
+            "TargetName" = "8:EasyUploader.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_82742F4EED9D488F85065F9DC5D93E5B"
             {
             "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\Qt5Svg.dll"
@@ -912,10 +910,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_88610340C505451198BF71516E85A115"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_867A82637ED74C8CB40F6DB2CAB6F6A3"
             {
-            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\moc_mainwindow.o"
-            "TargetName" = "8:moc_mainwindow.o"
+            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\EEPROM_Reader.hex"
+            "TargetName" = "8:EEPROM_Reader.hex"
             "Tag" = "8:"
             "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
             "Condition" = "8:"
@@ -972,6 +970,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8FBB619C0312484B8C203A270F81A434"
+            {
+            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\EasyUploader_resource_res.o"
+            "TargetName" = "8:EasyUploader_resource_res.o"
+            "Tag" = "8:"
+            "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_977026F9A45E47C99A855E741DFB01BC"
             {
             "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\translations\\qt_ko.qm"
@@ -998,26 +1016,6 @@
             "TargetName" = "8:qt_ru.qm"
             "Tag" = "8:"
             "Folder" = "8:_537F653D190E40929013C3BE4B8D7DC7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A8598D74B38E447483AFAA25528A71DE"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\EasyUploader_resource_res.o"
-            "TargetName" = "8:EasyUploader_resource_res.o"
-            "Tag" = "8:"
-            "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1072,30 +1070,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B13FD8FE652A45F09485F2692349484B"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B0E234DC7FBA48D3A6E80BE9A09EFFDC"
             {
-            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\EasyUploader.exe"
-            "TargetName" = "8:EasyUploader.exe"
-            "Tag" = "8:"
-            "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B2233111FEAD4EC5AE27956B830DBA0D"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\mainwindow.o"
-            "TargetName" = "8:mainwindow.o"
+            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\moc_mainwindow.o"
+            "TargetName" = "8:moc_mainwindow.o"
             "Tag" = "8:"
             "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
             "Condition" = "8:"
@@ -1212,6 +1190,46 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CB34F0EF70FF40498B03E098BB251388"
+            {
+            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\Qt5Core.dll"
+            "TargetName" = "8:Qt5Core.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D08BFBC8319544E896A30C61043713A3"
+            {
+            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\mainwindow.o"
+            "TargetName" = "8:mainwindow.o"
+            "Tag" = "8:"
+            "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D3415A7350FA4FDF82B10FEBF5D76A83"
             {
             "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\icon.ico"
@@ -1276,6 +1294,46 @@
             {
             "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\Qt5Gui.dll"
             "TargetName" = "8:Qt5Gui.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DF6BA967C233437382F3AD536F4536EA"
+            {
+            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\atm_backup.hex"
+            "TargetName" = "8:atm_backup.hex"
+            "Tag" = "8:"
+            "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E342ABBB68AE4F72BA3FB30B00454538"
+            {
+            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\main.o"
+            "TargetName" = "8:main.o"
             "Tag" = "8:"
             "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
             "Condition" = "8:"
@@ -1398,6 +1456,26 @@
             "TargetName" = "8:qt_cs.qm"
             "Tag" = "8:"
             "Folder" = "8:_537F653D190E40929013C3BE4B8D7DC7"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F09385969C084E52B9192A3531AB2F8A"
+            {
+            "SourcePath" = "8:..\\..\\..\\..\\Qt\\build-SsEasyUploaderQt-Desktop_Qt_5_5_1_MinGW_32bit-Release\\release\\moc_mainwindow.cpp"
+            "TargetName" = "8:moc_mainwindow.cpp"
+            "Tag" = "8:"
+            "Folder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1706,7 +1784,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_A3515D0ED0FC45DC909A3061F2C9F06D"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_A66199885D69410692B46B1CEF5C02D0"
             {
             "Name" = "8:Easy Uploader"
             "Arguments" = "8:"
@@ -1714,13 +1792,13 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_B13FD8FE652A45F09485F2692349484B"
-            "Folder" = "8:_1CDC488D696149719BDD1B459DF72D73"
+            "Target" = "8:_7FF369429E3046FF878D32475607DCCD"
+            "Folder" = "8:_DFFC3CA8B58C4141BCA4C36175A5F65A"
             "WorkingFolder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
             "Icon" = "8:_D3415A7350FA4FDF82B10FEBF5D76A83"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_DD68E44A1E634F62B9C365F3643CEB51"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_F352DD24D7334262A6505FEC6EE22F64"
             {
             "Name" = "8:Easy Uploader"
             "Arguments" = "8:"
@@ -1728,8 +1806,8 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_B13FD8FE652A45F09485F2692349484B"
-            "Folder" = "8:_DFFC3CA8B58C4141BCA4C36175A5F65A"
+            "Target" = "8:_7FF369429E3046FF878D32475607DCCD"
+            "Folder" = "8:_1CDC488D696149719BDD1B459DF72D73"
             "WorkingFolder" = "8:_9EC4AC0EBE9B484FB0CA4D36EA9892C0"
             "Icon" = "8:_D3415A7350FA4FDF82B10FEBF5D76A83"
             "Feature" = "8:"
